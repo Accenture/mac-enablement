@@ -1,14 +1,10 @@
 # Mac Enablement at Accenture
 
-This repository is a collection of various scripts and tools created by the Mac Workstation Team at Accenture.
-
-It should be thought of as a toolbox, rather than a complete project. You might need only one or two of the things listed here,
-and that's fine.
+This repository is a collection of various scripts and tools created by the Mac Workstation Team at Accenture. They are grouped into sub-folders according to general usage.
 
 ## Getting Started
 
-Be sure to read the notes below about each script. If there is an interdependency it should be noted within each script's description.
-
+Be sure to read the notes about each script. If there is an interdependency it should be noted.
 
 ### Prerequisites
 
@@ -23,9 +19,9 @@ should get you going.
 
 ### Principal Owners of the [mac-enablement](https://github.com/mac-enablement) repository:
 
-* **Brandon Peek** - *Mac Engineering Manager*
-* **Christopher Kemp** - *Infrastructure Tech Arch Team Lead*
-* **Maik Sanftenberg** - *Infrastructure Tech Arch Team Lead*
+* **Brandon Peek**      - *Mac Engineering Manager*
+* **Christopher Kemp**  - *Mac Engineering Team Lead*
+* **Maik Sanftenberg**  - *Mac Engineering Team Lead*
 
 See also the list of [contributors](https://github.com/mac-enablement/contributors) who participate in this project.
 
