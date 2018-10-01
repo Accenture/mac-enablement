@@ -15,13 +15,13 @@ Be sure to read the notes below about each script. If there is an interdependenc
 You'll need a Mac, of course. :) 
 
 Ruby scripts will require the appropriate gems to be installed. 
-We leverage ruby-jss for several tools: https://github.com/PixarAnimationStudios/ruby-jss
+We leverage [ruby-jss](https://github.com/PixarAnimationStudios/ruby-jss) for several tools.
 ```
 gem install ruby-jss
 ```
 should get you going.
 
-### Principal Owners - [mac-enablement](https://github.com/mac-enablement)
+### Principal Owners of the [mac-enablement](https://github.com/mac-enablement) repository:
 
 * **Brandon Peek** - *Mac Engineering Manager*
 * **Christopher Kemp** - *Infrastructure Tech Arch Team Lead*
