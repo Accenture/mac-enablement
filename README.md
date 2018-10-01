@@ -1,4 +1,4 @@
-# Mac Enablement at Accenture
+# [Mac Enablement at Accenture](https://github.com/accenture/mac-enablement)
 
 This repository is a collection of various scripts and tools created by the Mac Workstation Team at Accenture. They are grouped into sub-folders according to general usage.
 
@@ -17,7 +17,7 @@ gem install ruby-jss
 ```
 should get you going.
 
-### Principal Owners of the [mac-enablement](https://github.com/mac-enablement) repository:
+### Principal Owners of the [mac-enablement](https://github.com/accenture/mac-enablement) repository:
 
 * **Brandon Peek**      - *Mac Engineering Manager*
 * **Christopher Kemp**  - *Mac Engineering Team Lead*
